@@ -6,3 +6,4 @@
 **Дедлайн до 9 ноября в 3:59**
 
 Все решения были представлены на языке Java
+<img width="820" height="268" alt="{87DE642B-A451-4F0B-88F8-19FDA2254627}" src="https://github.com/user-attachments/assets/b7059dbf-8e80-49c6-aace-a1a8d2da16a8" />
